@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello!+I'm+Nico+Selomin;Web+Developer;Nice+to+meet+you...)]([https://cyrusdev.com](https://nicoselomin.github.io/portfolio/)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=comfortaa&color=016EEA&size=24&width=500&lines=Hello!+I'm+Nico+Selomin;Web+Developer;Nice+to+meet+you...)](https://nicoselomin.github.io/portfolio/)
 
 # 💫 About Me:
 🔭 I’m currently working on my skills<br>👯 I’m looking to collaborate on open source projects<br>🤝 I’m looking for help with my  public repositories<br>🌱 I’m currently learning software engineering<br>💬 Ask me about web development
