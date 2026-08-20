@@ -92,14 +92,6 @@ Current areas include:
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NicoSelomin\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=false)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NicoSelomin\&theme=radical\&hide_border=true\&include_all_commits=true\&count_private=false\&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Nicodème_Sèlomin_VODOUNNOU-0A66C2?style=flat\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/nicodemeselominvodounnou/)
@@ -109,9 +101,6 @@ Current areas include:
 ---
 
 ### Build. Understand. Secure.
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=NicoSelomin&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
 
 
